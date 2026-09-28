@@ -1,0 +1,31 @@
+body {
+    background-color: #eceff1;
+}
+
+.show-container {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.show-data {
+    width: 100%;
+    background-color: #cfd8dc;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 6px;
+    box-shadow: 2px 2px 5px 3px #D6406D;
+}
+
+.show-data h1 {
+    text-align: center;
+}
+
+.show-data img {
+    display: block;
+}
+
+.show-info {
+    width: 100%;
+}
+
