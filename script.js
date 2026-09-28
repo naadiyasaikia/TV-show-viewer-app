@@ -18,7 +18,7 @@ submit.addEventListener("click", function(event) {
                 const showInfo = document.createElement("div");
                 showInfo.className = "show-info";
 
-                const title = document.createElement("h2");
+                const title = document.createElement("h1");
                 title.textContent = show.name;
                 const summary = document.createElement("p");
                 summary.innerHTML = show.summary;
